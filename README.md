@@ -1,5 +1,4 @@
-# NOTICE: This project is no longer being maintained as of 21 February 2024
-### **[Read why here](https://www.tumblr.com/dragongirlsnout/742942435707109376/with-regards-to-recent-events?source=share)**
+# Continuation of Dashboard Unfucker
 
 # dashboard-unfucker
 Unfucks the twitterification of tumblr's dashboard by reverting it to the old layout as closely as possible while also offering control over other aspects of the UI.
@@ -97,7 +96,7 @@ Re-adds the notification icon to the navbar's "home" icon that displays how many
 Displays the number of votes each poll answer has recieved underneath the vote percentage.
 
 ### Display poll results without voting
-Displays a colored bar inside of poll vote buttons whose width is proportional to the percentage of votes each option has recieved at the time of loading 
+Displays a coloured bar inside of poll vote buttons whose width is proportional to the percentage of votes each option has recieved at the time of loading 
 
 ### Show hidden NSFW posts in the timeline
 Certain posts flagged as NSFW by Tumblr are delivered by internal API requests, but are not added to the dashboard feed. Enabling this feature will make these posts visible on the dashboard.
