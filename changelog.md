@@ -1,5 +1,8 @@
 # Changelog
 
+## v2.0.0.0
+- 
+
 ## v5.7.0 (Final)
 - Fixed post footer radius
 - Fixed post without tags feature
